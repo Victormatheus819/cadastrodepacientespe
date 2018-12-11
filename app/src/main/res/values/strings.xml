@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">cadastro de pacientes</string>
+    <string name="title_activity_actmain">Cadastro de pacientes</string>
+    <string name="title_activity_act_cadpac">Paciente</string>
+    <string name="nomelbl" />
+    <string name="nomelbldef">Nome</string>
+    <string name="datalbl">Data de nascimento</string>
+    <string name="contentdata">01/01/2000</string>
+    <string name="lblcpf">Cpf</string>
+    <string name="cpfcontent">999.999.999-99</string>
+    <string name="lblcad">Cadastrar</string>
+</resources>
